@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+This is my landing page. I used SCSS, HTML, JavaScript and BEM methodology to create this project.
+
+If you want to see the page, please click [here](https://growinganans.github.io/bose_landing/)
+
+If you want to see the layout, please click [here](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?type=design&node-id=0-1&mode=design)
